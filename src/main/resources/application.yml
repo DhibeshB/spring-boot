@@ -1,0 +1,10 @@
+#spring:
+#  security:
+#    user:
+#      name: test
+#      password: test@123
+server:
+  port: 8093
+#application:
+#  security:
+#    exclusions: /v3/api-docs/**, /swagger*/**, /actuator/**
